@@ -1,0 +1,6 @@
+homepage: "https://vaudit.com"
+documentation: "https://help.vaudit.com/vaudit-pixel-installation-guide-google-tag-manager"
+
+versions:
+  - sha: "YOUR_FIRST_COMMIT_SHA"
+    changeNotes: "Initial release of the Vaudit Pixel Tracker template."
